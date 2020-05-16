@@ -1,0 +1,5 @@
+La saison 2 (la balade) m'a permit de connaitre mon niveau en js(javascript) qui est tres faible et aujourd'hui   sur  11 episodes j'ai pu faire  8  ,
+les problemes rencontres sont:
+- les functions 
+-les boucles 
+A ce jour je me sens plus alaise avec les conditions que je commence a comprendre.
